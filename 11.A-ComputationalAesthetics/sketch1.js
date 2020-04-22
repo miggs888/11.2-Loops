@@ -12,7 +12,7 @@ function setup() {
 function draw() {
     background('black');
   // the 'shear' function skews the rectangle
-    shearX(QUARTER_PI / mouseX * 7);
+    shearX(QUARTER_PI / mouseX * 1.5);
     shearY(PI / mouseY * 6);
         text('I have been one acquainted with the night.', 30, 100);
         text('I have walked out in rain—and back in rain.', 30, 120);

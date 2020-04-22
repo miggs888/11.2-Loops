@@ -16,6 +16,7 @@ ul {
 li {
     margin: 10px;
     padding: 20px;
+    background-color: rgb(107, 106, 106);
     border-radius: 30px;
 }
 a {
